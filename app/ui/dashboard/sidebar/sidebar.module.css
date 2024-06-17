@@ -1,0 +1,37 @@
+.container {
+  position: sticky;
+  top: 4em;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  margin-bottom: 2em;
+}
+
+.userImage {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.userDetail {
+  display: flex;
+  flex-direction: column;
+}
+
+.userTitle {
+  font-size: 12px;
+  color: var(--textSoft);
+}
+
+.list {
+  list-style: none;
+}
+
+.cat {
+  color: var(--textSoft);
+  font-weight: bold;
+  font-size: 13px;
+  margin: 1em 0px;
+}
