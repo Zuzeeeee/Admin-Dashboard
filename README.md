@@ -12,8 +12,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deploy on Vercel
 
-Test credentials:
-username: user1
-password: 123456
+Test credentials:\
+username: user1\
+password: 123456\
 
 [Online version](https://admin-dashboard-kcbsfsyd8-jose-alves-projects.vercel.app)
