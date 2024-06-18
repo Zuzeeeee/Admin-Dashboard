@@ -51,4 +51,5 @@
 
 .logout:hover {
   background-color: #2e374a;
+  cursor: pointer;
 }
