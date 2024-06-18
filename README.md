@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a admin dashboard, made with next.js 14, to study the new functionalities that the new version of next.js brings.
 
 ## Getting Started
 
