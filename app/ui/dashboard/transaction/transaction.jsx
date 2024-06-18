@@ -19,7 +19,7 @@ const Transaction = () => {
             <td>
               <div className={styles.user}>
                 <Image
-                  src='/noavatar.svg'
+                  src='/noavatar.png'
                   width={40}
                   height={40}
                   className={styles.userImage}
@@ -37,7 +37,7 @@ const Transaction = () => {
             <td>
               <div className={styles.user}>
                 <Image
-                  src='/noavatar.svg'
+                  src='/noavatar.png'
                   width={40}
                   height={40}
                   className={styles.userImage}
@@ -57,7 +57,7 @@ const Transaction = () => {
             <td>
               <div className={styles.user}>
                 <Image
-                  src='/noavatar.svg'
+                  src='/noavatar.png'
                   width={40}
                   height={40}
                   className={styles.userImage}
@@ -77,7 +77,7 @@ const Transaction = () => {
             <td>
               <div className={styles.user}>
                 <Image
-                  src='/noavatar.svg'
+                  src='/noavatar.png'
                   width={40}
                   height={40}
                   className={styles.userImage}
